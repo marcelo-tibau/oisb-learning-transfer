@@ -135,7 +135,7 @@ main ideas",SMI5 ,Metacognitive ,0
 ,,,,,"Selection of the
 main ideas",SMI5 ,Metacognitive ,0
 ,,,,,Evaluation,E3 ,Metacognitive ,0
-,,joint prosthesis yahoo answers,Word Substitution (WS),changed the search query from retrieve a situation to a specific website,"Selection of the
+,,joint prosthesis yahoo answers,Word Substitution (WS),changed the search query to retrieve a situation from a specific website,"Selection of the
 main ideas",SMI1 ,Metacognitive ,1
 ,,arthroplasty,Related (RE),,Trial and error,TE1 ,Procedural ,1
 ,,,,,Purposeful Thinking,PT4,Metacognitive ,0
@@ -1516,4 +1516,444 @@ main ideas",SMI6 ,Metacognitive ,0
 ,,,,,Select Main Ideas,SMI6,Metacognitive,0
 ,,,,,Select Main Ideas,SMI7,Metacognitive,0
 ,,,,,Evaluation,E1,Metacognitive,1
+,,,,,Evaluation,E4,Metacognitive,1
+1,User_20,weight and mass ,Initial State (IS),Used Google search engine,Control,C1,Behavioral,1
+,,,,Evaluated the SERP,Evaluation,E3,Metacognitive,0
+,,,,Read the concept at Google's box,Purposeful Thinking,PT1,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI7,Metacognitive,0
+,,,,,Evaluation,E4,Metacognitive,0
+,,,,,Control,C6,Behavioral,0
+,,volume and density,New (NW),,Trial and Error,TE1,Procedural,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI7,Metacognitive,1
+,,,,,Evaluation,E4,Metacognitive,0
+,,,,,Control,C6,Behavioral,1
+,,volume,Generalization (GE),,Trial and Error,TE1,Procedural,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI7,Metacognitive,0
+,,,,,Evaluation,E4,Metacognitive,0
+,,,,,Control,C6,Behavioral,1
+,,,,Evaluated the SERP,Evaluation,E3,Metacognitive,0
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI7,Metacognitive,0
+,,weight and mass ,Return State (RS),,Trial and Error,TE1,Procedural,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI7,Metacognitive,0
+,,,,,Evaluation,E4,Metacognitive,0
+2,User_20,human body bones and muscles ,Initial State (IS),,Select Main Ideas,SMI2,Metacognitive,1
+,,,,changed to image tab,Control,C8,Behavioral,1
+,,human body main bones ,Word Substitution (WS),changed to all tab,Select Main Ideas,SMI2,Metacognitive,1
+,,,,,Purposeful Thinking,PT3,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI7,Metacognitive,0
+,,206 bones,Related (RE),,Control,C2,Behavioral,1
+,,,,,Purposeful Thinking,PT1,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI7,Metacognitive,0
+,,,,returned to 1 / image tab (1st image) already opened,Purposeful Thinking,PT3,Metacognitive,0
+,,,,,Evaluation,E4,Metacognitive,0
+,,human body main muscles ,New (NW),,Trial and Error,TE1,Procedural,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI7,Metacognitive,0
+,,,,,Control,C6,Behavioral,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Control,C6,Behavioral,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI7,Metacognitive,0
+,,,,,Evaluation,E4,Metacognitive,0
+,,movable joints in the human body ,Word Substitution (WS),,Trial and Error,TE1,Procedural,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI8,Metacognitive,0
+,,,,,Evaluation,E3,Metacognitive,1
+,,Diarthrosis human body,Word Substitution (WS),,Trial and Error,TE1,Procedural,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI7,Metacognitive,0
+,,,,,Evaluation,E4,Metacognitive,0
+3,User_20,prosthetic limb ,Initial State (IS),,Select Main Ideas,SMI2,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Control,C6,Behavioral,0
+,,prosthetic limb movable joints ,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,1
+,,"""prosthetic limb"" movable joints features  ",Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,1
+,,"""prosthetic limb"" AND ""movable joints"" ",Word Substitution (WS),,Control,C7,Behavioral,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI7,Metacognitive,1
+,,,,,Evaluation,E4,Metacognitive,0
+,,,,,Control,C6,Behavioral,0
+,,prosthetic limb,Generalization (GE),Accessed the website linguee.com.br,Control,C4,Behavioral,0
+,,prosthetic leg,Word Substitution (WS),,Trial and Error,TE1,Procedural,0
+,,prosthetic leg features,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,0
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Control,C6,Behavioral,0
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Control,C6,Behavioral,0
+,,,,changed to image tab,Control,C8,Behavioral,1
+,,,,changed to all tab,Trial and Error,TE3,Procedural,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,prosthetic leg composed by,Word Substitution (WS),,Trial and Error,TE1,Procedural,0
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI7,Metacognitive,0
+,,,,,Evaluation,E2,Metacognitive,0
+,,,,,Evaluation,E4,Metacognitive,0
+1,User_21,weight and mass difference ,Initial State (IS),,Select Main Ideas,SMI3,Metacognitive,0
+,,weight mass volume and density ,Word Substitution (WS),,Trial and Error,TE1,Procedural,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Control,C6,Behavioral,0
+,,relationship between weight and density ,Word Substitution (WS),,Select Main Ideas,SMI3,Metacognitive,1
+,,comparison between weight and mass ,Word Substitution (WS),,Select Main Ideas,SMI2,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Control,C6,Behavioral,0
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Control,C6,Behavioral,0
+,,what is mass ,Word Substitution (WS),,Purposeful Thinking,PT1,Metacognitive,0
+,,,,,Select Main Ideas,SMI6,Metacognitive,1
+,,,,,Evaluation,E2,Metacognitive,0
+,,,,,Evaluation,E4,Metacognitive,0
+,,weight,New (NW),,Trial and Error,TE1,Procedural,1
+,,volume,New (NW),,Trial and Error,TE1,Procedural,1
+,,volume versus density ,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,0
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,comparison between weight and mass ,Word Substitution (WS),,Select Main Ideas,SMI2,Metacognitive,0
+,,,,,Evaluation,E4,Metacognitive,1
+2,User_21,main bones of the human body ,Initial State (IS),,Select Main Ideas,SMI3,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Control,C6,Behavioral,0
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Control,C6,Behavioral,0
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Control,C6,Behavioral,0
+,,main bones and muscles of the human body ,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,Rafaela Linhares MD,Related (RE),,Purposeful Thinking,PT1,Metacognitive,0
+,,"""Rafaela Linhares"" usp master ",Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,1
+,,main bones and muscles of the human body ,Related (RE),,Purposeful Thinking,PT1,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Control,C6,Behavioral,0
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Control,C6,Behavioral,0
+,,involuntary muscle ,Related (RE),,Purposeful Thinking,PT1,Metacognitive,1
+,,heart muscle ,Word Substitution (WS),,Purposeful Thinking,PT1,Metacognitive,1
+,,fibrous joint ,New (NW),,Purposeful Thinking,PT1,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Control,C6,Behavioral,0
+,,synovial joint ,Word Substitution (WS),,Purposeful Thinking,PT1,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Evaluation,E2,Metacognitive,1
+,,,,,Evaluation,E4,Metacognitive,1
+3,User_21,movable joint in prosthetic limb ,Initial State (IS),,Select Main Ideas,SMI2,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,"""movable joint of a prosthetic limb"" ",Word Substitution (WS),,Trial and Error,TE1,Procedural,1
+,,"""movable joint of a prosthetic limb"" - filetype: pdf",Specialization (SC),,Control,C10,Behavioral,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,"""movable joint"" ""prosthetic limb"" - filetype: pdf",Generalization (GE),,Trial and Error,TE1,Procedural,1
+,,"""movable joint"" ""prosthesis "" - filetype: pdf",Word Substitution (WS),,Trial and Error,TE1,Procedural,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Control,C6,Behavioral,0
+,,"""types of prosthesis"" ""movable joint"" - filetype: pdf",Word Substitution (WS),,Trial and Error,TE1,Procedural,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Control,C6,Behavioral,0
+,,"""types of prosthesis"" - filetype: pdf",Generalization (GE),,Trial and Error,TE1,Procedural,0
+,,"""types of prosthetic limb"" - filetype: pdf",Word Substitution (WS),,Trial and Error,TE1,Procedural,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI8,Metacognitive,0
+,,,,,Select Main Ideas,SMI5,Metacognitive,0
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI5,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI8,Metacognitive,0
+,,,,,Evaluation,E4,Metacognitive,1
+1,User_22,definition weight ,Initial State (IS),,Control,C1,Behavioral,1
+,,,,,Trial and Error,TE3,Procedural,
+,,,,,Purposeful Thinking,PT3,Metacognitive,1
+,,weight vs mass,Word Substitution (WS),,Purposeful Thinking,PT1,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,1
+,,,,,Select Main Ideas,SMI7,Metacognitive,1
+,,,,,Evaluation,E2,Metacognitive,0
+,,best definition of mass,Word Substitution (WS),,Purposeful Thinking,PT1,Metacognitive,1
+,,,,,Trial and Error,TE3,Procedural,1
+,,,,,Purposeful Thinking,PT3,Metacognitive,0
+,,,,,Evaluation,E2,Metacognitive,0
+,,volume vs mass definition,Word Substitution (WS),,Purposeful Thinking,PT1,Metacognitive,1
+,,,,,Trial and Error,TE3,Procedural,1
+,,,,,Purposeful Thinking,PT3,Metacognitive,1
+,,,,,Select Main Ideas,SMI8,Metacognitive,0
+,,,,,Control,C6,Behavioral,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Evaluation,E4,Metacognitive,0
+,,,,,Select Main Ideas,SMI5,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,what is volume in science area,Word Substitution (WS),,Purposeful Thinking,PT1,Metacognitive,1
+,,,,Copied description provided by Google's SERP,Select Main Ideas,SMI7,Metacognitive,0
+,,,,,Evaluation,E4,Metacognitive,0
+,,body vs substance ,New (NW),,Trial and Error,TE1,Procedural,1
+,,,,Copied description provided by Google's SERP,Select Main Ideas,SMI7,Metacognitive,0
+,,,,,Evaluation,E4,Metacognitive,0
+,,what is matter ,New (NW),,Trial and Error,TE1,Procedural,1
+,,,,,Evaluation,E1,Metacognitive,0
+,,body vs matter,Word Substitution (WS),,Purposeful Thinking,PT1,Metacognitive,1
+,,,,,Evaluation,E4,Metacognitive,0
+2,User_22,major bones and muscles in the body,Initial State (IS),,Select Main Ideas,SMI3,Metacognitive,1
+,,main muscles of the human body ,Word Substitution (WS),,Purposeful Thinking,PT1,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI7,Metacognitive,0
+,,main bones of the human body ,Word Substitution (WS),,Purposeful Thinking,PT1,Metacognitive,1
+,,,,Copied description provided by Google's SERP,Select Main Ideas,SMI7,Metacognitive,0
+,,,,Acessed Website https://www.institutosalutesp.com.br/,Select Main Ideas,SMI1,Metacognitive,0
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,main bones of the human body ,Repeat (RP),,Select Main Ideas,SMI2,Metacognitive,1
+,,"""main bones"" of the human body ",Repeat (RP),,Select Main Ideas,SMI2,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI8,Metacognitive,0
+,,,,,Select Main Ideas,SMI7,Metacognitive,0
+,,,,Acessed Website https://books.google.com/,Select Main Ideas,SMI1,Metacognitive,1
+,,"""main bones of the body""",Generalization (GE),,Purposeful Thinking,PT4,Metacognitive,1
+,,"""main bones"" of the body",Repeat (RP),,Purposeful Thinking,PT1,Metacognitive,1
+,,"""main bones of the skeleton""",Word Substitution (WS),,Purposeful Thinking,PT1,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI8,Metacognitive,0
+,,,,changed to Google's all tab,Control,C8,Behavioral,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI8,Metacognitive,0
+,,skull ,Related (RE),,Trial and Error,TE1,Procedural,1
+,,skull is a bone ,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,1
+,,,,,Evaluation,E1,Metacognitive,1
+,,,,,Control,C6,Behavioral,1
+,,,,changed to Google's image tab,Control,C8,Behavioral,0
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,what is the skull ,Word Substitution (WS),,Trial and Error,TE1,Procedural,1
+,,can I  call the skull a bone ,Word Substitution (WS),,Trial and Error,TE1,Procedural,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,the bone is a tissue ,Word Substitution (WS),,Trial and Error,TE1,Procedural,0
+,,"""the bone is a type of tissue""",Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,0
+,,,,,Select Main Ideas,SMI7,Metacognitive,0
+,,,,,Evaluation,E1,Metacognitive,0
+,,,,,Control,C6,Behavioral,0
+,,,,,Select Main Ideas,SMI8,Metacognitive,0
+,,,,,Select Main Ideas,SMI7,Metacognitive,0
+,,movable joints of the human body ,New (NW),,Select Main Ideas,SMI2,Metacognitive,1
+,,,,Copied description provided by Google's SERP,Select Main Ideas,SMI7,Metacognitive,1
+,,ichmap tools concept maps,New (NW),,Disorientation,D2,Behavioral,1
+,,ihmc tools concept maps,Word Substitution (WS),,Disorientation,D2,Behavioral,1
+,,,,,Control,C6,Behavioral,1
+,,,,"back to the query ""movable joints of the human body""",Control,C6,Behavioral,1
+,,,,,Select Main Ideas,SMI8,Metacognitive,1
+,,,,,Select Main Ideas,SMI7,Metacognitive,0
+,,is a uniaxial joint ,New (NW),,Purposeful Thinking,PT1,Metacognitive,1
+,,,,,Select Main Ideas,SMI8,Metacognitive,0
+,,radioulnar joints ,Word Substitution (WS),,Trial and Error,TE1,Procedural,1
+,,radioulnar joints located in the ,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,radioulnar joints location,Word Substitution (WS),,Purposeful Thinking,PT1,Metacognitive,1
+,,,,changed to Google's image tab,Control,C8,Behavioral,1
+,,,,,Select Main Ideas,SMI7,Metacognitive,0
+,,atlanto-axial ,New (NW),,Trial and Error,TE1,Procedural,1
+,,atlanto-axial joint location ,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,1
+,,,,changed to Google's image tab,Control,C8,Behavioral,0
+,,,,Copied description provided by Google's SERP,Select Main Ideas,SMI7,Metacognitive,1
+,,,,,Evaluation,E1,Metacognitive,0
+,,,,,Control,C6,Behavioral,0
+,,kneecap is ,New (NW),,Trial and Error,TE1,Procedural,0
+,,kneecap joint,Word Substitution (WS),,Purposeful Thinking,PT1,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Control,C6,Behavioral,0
+,,kneecap knee joint ,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,1
+,,,,changed to Google's image tab,Control,C8,Behavioral,0
+,,what is a joint ,Word Substitution (WS),,Trial and Error,TE1,Procedural,1
+,,,,,Evaluation,E4,Metacognitive,0
+3,User_22,forearm and ,Initial State (IS),,Control,C1,Behavioral,0
+,,,,changed to Google's image tab,Control,C8,Behavioral,0
+,,characteristics of the movable joints of a prosthetic arm ,New (NW),,Control,C8,Behavioral,0
+,,prosthesis joint gear ,Word Substitution (WS),,Purposeful Thinking,PT1,Metacognitive,0
+,,synthetic meaning,New (NW),,Select Main Ideas,SMI3,Metacognitive,0
+,,synthetic meat,Word Substitution (WS),,Disorientation,D2,Behavioral,0
+,,a prosthesis,New (NW),,Trial and Error,TE1,Procedural,0
+,,what is a prosthesis ,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,0
+,,prosthesis ,Generalization (GE),,Trial and Error,TE1,Procedural,0
+,,artificial meaning,New (NW),,Trial and Error,TE1,Procedural,0
+,,titanium,New (NW),,Disorientation,D2,Behavioral,0
+,,prosthetic joint ,New (NW),,Trial and Error,TE1,Procedural,0
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Control,C6,Behavioral,0
+,,how to choose a prosthetic arm ,Word Substitution (WS),,Purposeful Thinking,PT1,Metacognitive,1
+,,,,,Trial and Error,TE3,Procedural,0
+,,,,,Purposeful Thinking,PT3,Metacognitive,1
+,,,,,Select Main Ideas,SMI5,Metacognitive,0
+,,prosthetic joint muscle cables  ,Word Substitution (WS),,Purposeful Thinking,PT1,Metacognitive,1
+,,prosthetic joint muscle cables brace ,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,0
+,,brace prosthesis ,Word Substitution (WS),,Trial and Error,TE1,Procedural,0
+,,,,,Select Main Ideas,SMI8,Metacognitive,0
+,,what is a brace,Word Substitution (WS),,Trial and Error,TE1,Procedural,1
+,,what is a prosthetic brace ,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,1
+,,,,,Control,C6,Behavioral,0
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI8,Metacognitive,0
+,,"""drive braces is""",Word Substitution (WS),,Trial and Error,TE1,Procedural,1
+,,"""drive braces""",Generalization (GE),,Trial and Error,TE1,Procedural,0
+,,"""drive braces"" prosthesis",Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,0
+,,"""drive braces""",Generalization (GE),,Trial and Error,TE1,Procedural,1
+,,,,changed to Google's image tab,Control,C8,Behavioral,1
+,,"""brace"" prosthesis",Word Substitution (WS),,Trial and Error,TE1,Procedural,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,brace,Generalization (GE),,Trial and Error,TE1,Procedural,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Evaluation,E4,Metacognitive,0
+1,User_23,weight definition ,Initial State (IS),,Control,C1,Behavioral,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,1
+,,volume definition,Word Substitution (WS),,Select Main Ideas,SMI2,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,1
+,,density definition,Word Substitution (WS),,Select Main Ideas,SMI2,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,1
+,,,,,Evaluation,E4,Metacognitive,0
+2,User_23,main muscles and bones of the human body ,Initial State (IS),,Select Main Ideas,SMI2,Metacognitive,1
+,,,,,Trial and Error,TE3,Procedural,1
+,,,,,Purposeful Thinking,PT3,Metacognitive,1
+,,movable joints of the human body examples ,New (NW),,Select Main Ideas,SMI2,Metacognitive,1
+,,,,changed to Google's image tab,Control,C8,Behavioral,1
+,,,,changed to Google's all tab,Control,C8,Behavioral,1
+,,unmovable joints of the human body examples,Word Substitution (WS),,Select Main Ideas,SMI3,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,1
+,,,,"back to the query ""movable joints of the human body examples """,Control,C6,Behavioral,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Evaluation,E1,Metacognitive,0
+,,,,,Evaluation,E2,Metacognitive,0
+,,,,,Evaluation,E4,Metacognitive,0
+3,User_23,movable joints for prosthesis ,Initial State (IS),,Select Main Ideas,SMI2,Metacognitive,1
+,,,,,Trial and Error,TE3,Procedural,1
+,,,,,Purposeful Thinking,PT3,Metacognitive,0
+,,,,,Control,C6,Behavioral,0
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Control,C6,Behavioral,1
+,,movable joints for prosthetic limb ,Word Substitution (WS),,Trial and Error,TE1,Procedural,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,movable joints features in prostheses ,Word Substitution (WS),,Trial and Error,TE1,Procedural,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI8,Metacognitive,1
+,,Prostheses with movable joints what are the benefits ,Word Substitution (WS),,Trial and Error,TE1,Procedural,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,"""movable joints"" AND ""prostheses""",Word Substitution (WS),,Control,C7,Behavioral,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Control,C6,Behavioral,1
+,,"prosthetic limb ""movable joints"" features",Word Substitution (WS),,Trial and Error,TE1,Procedural,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Control,C6,Behavioral,0
+,,movable joints and prostheses,Word Substitution (WS),,Trial and Error,TE1,Procedural,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Control,C6,Behavioral,1
+,,,,,Trial and Error,TE3,Procedural,1
+,,,,,Purposeful Thinking,PT3,Metacognitive,0
+,,,,,Select Main Ideas,SMI8,Metacognitive,1
+,,,,,Evaluation,E4,Metacognitive,0
+1,User_24,weight definition ,Initial State (IS),,Control,C1,Behavioral,1
+,,,,Copied description provided by Google's SERP,Select Main Ideas,SMI7,Metacognitive,1
+,,google scholar,New (NW),,Control,C3,Behavioral,0
+,,weight definition ,Return State (RS),Searched from Google Scholar,Trial and Error,TE2,Procedural,0
+,,weight ,Generalization (GE),Searched from Google Scholar,Trial and Error,TE1,Procedural,1
+,,weight gravity ,Specialization (SC),Searched from Google Scholar,Purposeful Thinking,PT1,Metacognitive,0
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Control,C6,Behavioral,0
+,,definition of mass ,New (NW),Searched from Google Scholar,Select Main Ideas,SMI2,Metacognitive,1
+,,,,Returned to Google search engine,Control,C6,Behavioral,0
+,,definition of atomic mass ,Specialization (SC),,Select Main Ideas,SMI3,Metacognitive,1
+,,definition of mass physics,Word Substitution (WS),,Trial and Error,TE1,Procedural,1
+,,,,Copied description provided by Google's SERP,Select Main Ideas,SMI7,Metacognitive,1
+,,definition of density physics,Word Substitution (WS),,Trial and Error,TE1,Procedural,1
+,,,,Copied description provided by Google's SERP,Select Main Ideas,SMI7,Metacognitive,1
+,,definition of mass physics,Word Substitution (WS),,Trial and Error,TE1,Procedural,1
+,,,,Copied description provided by Google's SERP,Select Main Ideas,SMI7,Metacognitive,1
+,,,,,Evaluation,E1,Metacognitive,1
+,,,,,Evaluation,E4,Metacognitive,1
+2,User_24,main bones of the human body ,Initial State (IS),,Select Main Ideas,SMI3,Metacognitive,0
+,,,,changed to Google's image tab,Control,C8,Behavioral,1
+,,,,returned to all tabs,Control,C6,Behavioral,0
+,,,,Copied description provided by Google's SERP,Select Main Ideas,SMI7,Metacognitive,1
+,,movable joints of the human body,Word Substitution (WS),,Select Main Ideas,SMI3,Metacognitive,0
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI7,Metacognitive,1
+,,,,,Control,C6,Behavioral,0
+,,main muscles of the human body,Word Substitution (WS),,Select Main Ideas,SMI3,Metacognitive,0
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI7,Metacognitive,0
+,,,,,Evaluation,E1,Metacognitive,0
+,,,,,Evaluation,E4,Metacognitive,1
+3,User_24,prosthetic limb joints ,Initial State (IS),,Select Main Ideas,SMI2,Metacognitive,1
+,,full prosthesis joints ,Word Substitution (WS),,Select Main Ideas,SMI3,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI8,Metacognitive,1
+,,prosthesis joints ,Generalization (GE),,Trial and Error,TE1,Procedural,0
+,,,,,Trial and Error,TE3,Procedural,0
+,,,,,Purposeful Thinking,PT3,Metacognitive,0
+,,prosthesis joints features ,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,0
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,what are prostheses made of ,New (NW),,Trial and Error,TE1,Procedural,0
+,,,,,Evaluation,E4,Metacognitive,1
+1,User_25,weight mass volume and density,Initial State (IS),,Select Main Ideas,SMI3,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI7,Metacognitive,0
+,,,,,Evaluation,E4,Metacognitive,0
+,,volume definition,Word Substitution (WS),,Purposeful Thinking,PT1,Metacognitive,1
+,,,,Copied description provided by Google's SERP,Select Main Ideas,SMI7,Metacognitive,0
+,,,,,Evaluation,E4,Metacognitive,0
+2,User_25,main bones of the human body ,Initial State (IS),,Select Main Ideas,SMI3,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI7,Metacognitive,0
+,,,,,Evaluation,E4,Metacognitive,0
+,,main muscles of the human body,Word Substitution (WS),,Select Main Ideas,SMI2,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI7,Metacognitive,0
+,,,,,Select Main Ideas,SMI8,Metacognitive,0
+,,,,,Evaluation,E4,Metacognitive,0
+,,,,,Control,C6,Behavioral,0
+,,movable joints of the human body,Word Substitution (WS),,Select Main Ideas,SMI3,Metacognitive,0
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI7,Metacognitive,0
+,,,,,Evaluation,E4,Metacognitive,0
+3,User_25,"""knee prosthesis"" ""movable joint"" ",Initial State (IS),,Select Main Ideas,SMI2,Metacognitive,1
+,,,,,Trial and Error,TE3,Procedural,1
+,,,,,Purposeful Thinking,PT3,Metacognitive,0
+,,,,,Evaluation,E4,Metacognitive,0
+,,how does the knee prosthesis work ,Word Substitution (WS),,Select Main Ideas,SMI3,Metacognitive,1
+,,,,,Trial and Error,TE3,Procedural,1
+,,,,,Purposeful Thinking,PT3,Metacognitive,0
+,,knee joint,Word Substitution (WS),,Select Main Ideas,SMI2,Metacognitive,1
+,,,,changed to Google's image tab,Control,C8,Behavioral,1
+,,,,,Select Main Ideas,SMI7,Metacognitive,1
+,,,,"back to the query ""how does the knee prosthesis work""",Control,C6,Behavioral,1
+,,,,,Purposeful Thinking,PT3,Metacognitive,0
+,,,,,Select Main Ideas,SMI7,Metacognitive,1
+,,,,,Evaluation,E4,Metacognitive,0
+1,User_26,weight volume density,Initial State (IS),,Control,C1,Behavioral,1
+,,,,,Select Main Ideas,SMI2,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,weight definition,Word Substitution (WS),,Control,C1,Behavioral,1
+,,,,,Purposeful Thinking,PT1,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,volume definition,Word Substitution (WS),,Purposeful Thinking,PT1,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Evaluation,E4,Metacognitive,1
+2,User_26,main bones of the human body ,Initial State (IS),,Control,C1,Behavioral,1
+,,,,,Select Main Ideas,SMI3,Metacognitive,0
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Control,C6,Behavioral,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Control,C6,Behavioral,1
+,,"""main bones of the human body""",Repeat (RP),,Select Main Ideas,SMI2,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Select Main Ideas,SMI8,Metacognitive,1
+,,,,,Select Main Ideas,SMI5,Metacognitive,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,1
+,,"""movable joints""",New (NW),,Select Main Ideas,SMI2,Metacognitive,1
+,,,,,Trial and Error,TE3,Procedural,1
+,,,,,Purposeful Thinking,PT3,Metacognitive,0
+,,,,changed to Google's image tab,Control,C8,Behavioral,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Evaluation,E4,Metacognitive,1
+3,User_26,movable joints prosthetic limb features  ,Initial State (IS),,Select Main Ideas,SMI2,Metacognitive,1
+,,,,,Trial and Error,TE3,Procedural,1
+,,,,,Purposeful Thinking,PT3,Metacognitive,0
+,,appendix joint prosthesis connection module ,Word Substitution (WS),,Purposeful Thinking,PT1,Metacognitive,1
+,,movable joint prosthesis,Word Substitution (WS),,Trial and Error,TE1,Procedural,1
+,,,,changed to Google's image tab,Control,C8,Behavioral,1
+,,,,,Select Main Ideas,SMI6,Metacognitive,0
+,,,,"shift to the source previously opened by the query ""appendix joint prosthesis connection module""",Select Main Ideas,SMI6,Metacognitive,0
+,,,,,Evaluation,E2,Metacognitive,1
 ,,,,,Evaluation,E4,Metacognitive,1
